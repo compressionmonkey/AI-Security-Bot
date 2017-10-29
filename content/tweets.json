@@ -1,11 +1,11 @@
 [{
     "id": "0x0",
     "tweet": "Explaining and Harnessing Adversarial Examples \n https://arxiv.org/abs/1412.6572 \n #AISecurity #AdversarialExamples #AdversarialTraining",
-    "image": "https://raw.githubusercontent.com/RandomAdversary/AIAdversary_ResearchBot/master/content/images/1.png"
+    "image": "https://raw.githubusercontent.com/RandomAdversary/AI-Security-Bot/master/content/images/1.png"
   },
   {
     "id": "0x1",
     "tweet": "Can Machine Learning Be Secure? - Taxonomy of different types of attacks on machine learning techniques and systems.\nhttps://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf",
-    "image": "https://raw.githubusercontent.com/RandomAdversary/AIAdversary_ResearchBot/master/content/images/2.png"
+    "image": "https://raw.githubusercontent.com/RandomAdversary/AI-Security-Bot/master/content/images/2.png"
   }
 ]
