@@ -1,14 +1,10 @@
 [
 {
-  "Tweet": "Test tweet",
-  "DownloadUrl": "google.com",
-  "Keywords": "#AISec #AiSecurity",
-  "Image": "https://raw.githubusercontent.com/RandomAdversary/AIAdversary_ResearchBot/master/29e1e2308bcbb68bcf778ec63865644f.jpg"
+  "tweet": "Explaining and Harnessing Adversarial Examples \n https://arxiv.org/abs/1412.6572 \n #AISecurity #AdversarialExamples #AdversarialTraining",
+  "image": "https://raw.githubusercontent.com/RandomAdversary/AIAdversary_ResearchBot/master/content/images/1.png"
 },
 {
-  "Tweet": "Test tweet 2",
-  "DownloadUrl": "google.com",
-  "Keywords": "#AISec #AiSecurity",
-  "Image": "https://raw.githubusercontent.com/RandomAdversary/AIAdversary_ResearchBot/master/29e1e2308bcbb68bcf778ec63865644f.jpg"
+  "tweet": "Can Machine Learning Be Secure? - Taxonomy of different types of attacks on machine learning techniques and systems.\nhttps://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf",
+  "image": "https://raw.githubusercontent.com/RandomAdversary/AIAdversary_ResearchBot/master/content/images/2.png"
 }
 ]
