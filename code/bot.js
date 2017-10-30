@@ -23,7 +23,7 @@ var tweeted = [];
 //Downloads tweets datatabse.
 updateTweets();
 //Get the ids for previous tweets.
-if(fs.existsSync('tweeted.json')){
+if(fs.existsSync('/mnt/tweeted.json')){
   loadTweeted();
 }
 
