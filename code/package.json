@@ -1,0 +1,16 @@
+{
+  "name": "ai_adversary_research_bot",
+  "version": "1.0.0",
+  "description": "Tweeting research about AI security.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RandomAdversary",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^1.2.5",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
