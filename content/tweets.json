@@ -7,5 +7,10 @@
     "id": "0x1",
     "tweet": "Can Machine Learning Be Secure? - Taxonomy of different types of attacks on machine learning techniques and systems.\nhttps://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf",
     "image": "https://raw.githubusercontent.com/RandomAdversary/AI-Security-Bot/master/content/images/2.png"
+  },
+   {
+    "id": "0x2",
+    "tweet": "Karma of humans is AI.\n― Raghu Venkatesh",
+    "image": ""
   }
 ]
