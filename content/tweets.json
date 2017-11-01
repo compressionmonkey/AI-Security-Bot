@@ -17,5 +17,50 @@
     "id": "0x3",
     "tweet": "Fooling Neural Networks in the Physical World with 3D Adversarial Objects. \n http://www.labsix.org/physical-objects-that-fool-neural-nets/",
     "image": ""
+  },
+     {
+    "id": "0x4",
+    "tweet": "Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples \n https://arxiv.org/abs/1605.07277",
+    "image": ""
+  },
+      {
+    "id": "0x5",
+    "tweet": "Delving into Transferable Adversarial Examples and Black-box Attacks \n https://arxiv.org/abs/1611.02770",
+    "image": ""
+  },
+       {
+    "id": "0x6",
+    "tweet": "Evasion attacks against machine learning at test time\nhttps://pralab.diee.unica.it/sites/default/files/Biggio13-ecml.pdf",
+    "image": ""
+  },
+       {
+    "id": "0x7",
+    "tweet": "Stealing Machine Learning Models via Prediction APIs \n https://arxiv.org/abs/1609.02943",
+    "image": ""
+  },
+       {
+    "id": "0x8",
+    "tweet": "CleverHans - An adversarial example library for constructing attacks, building defenses, and benchmarking both. \n https://github.com/tensorflow/cleverhans",
+    "image": ""
+  },
+       {
+    "id": "0x9",
+    "tweet": "Attacking Machine Learning with Adversarial Examples \n https://blog.openai.com/adversarial-example-research/",
+    "image": ""
+  },
+       {
+    "id": "0xa",
+    "tweet": "Adversarial Examples in NLP Contexts\n https://nlp.stanford.edu/courses/cs224n/2015/reports/29.pdf",
+    "image": ""
+  },
+       {
+    "id": "0xb",
+    "tweet": "Adversarial Examples for Evaluating Reading Comprehension Systems\nhttps://nlp.stanford.edu/pubs/jia2017adversarial.pdf",
+    "image": ""
+  },
+       {
+    "id": "0xc",
+    "tweet": "One pixel attack for fooling deep neural networks\n https://arxiv.org/abs/1710.08864v1",
+    "image": ""
   }
 ]
