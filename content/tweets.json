@@ -12,5 +12,10 @@
     "id": "0x2",
     "tweet": "Karma of humans is AI.\n― Raghu Venkatesh",
     "image": ""
+  },
+    {
+    "id": "0x3",
+    "tweet": "Fooling Neural Networks in the Physical World with 3D Adversarial Objects. \n http://www.labsix.org/physical-objects-that-fool-neural-nets/",
+    "image": ""
   }
 ]
