@@ -62,5 +62,20 @@
     "id": "0xc",
     "tweet": "One pixel attack for fooling deep neural networks\n https://arxiv.org/abs/1710.08864v1",
     "image": ""
+  },
+       {
+    "id": "0xd",
+    "tweet": "Evading Classifiers by Morphing in the Dark\n https://acmccs.github.io/papers/p119-dangA.pdf",
+    "image": ""
+  },
+        {
+    "id": "0xe",
+    "tweet": "Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning\n https://arxiv.org/abs/1702.07464",
+    "image": ""
+  },
+         {
+    "id": "0xf",
+    "tweet": "Practical Attacks Against Graph-based Clustering. \n https://arxiv.org/abs/1708.09056",
+    "image": ""
   }
 ]
